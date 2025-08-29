@@ -1,1 +1,1 @@
-# Curso de Ciência dos Dados
+# Curso de Ciência dos Dados do mestrado em economia.
